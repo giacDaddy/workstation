@@ -1,0 +1,7 @@
+{
+  "id": "windows_user",
+  "comment": "I am a windows user",
+  "uid": 101,
+  "gid": 1,
+  "platform": "windows"
+}
